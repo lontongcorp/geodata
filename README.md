@@ -8,7 +8,10 @@ Fork and contribute!
 Files
 -----
 
-* country.json
+* World Countries (country)
+* World Major Cities (city)
+* Indonesia Provinces (IDN_province)
+* Indonesia Districts (IDN_district)
 
 
 Contributors
